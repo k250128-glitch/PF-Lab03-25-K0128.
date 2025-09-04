@@ -10,7 +10,7 @@
 1. I want to train models
 2. I want to deepen my skills in python
 3. I want to get into ML and hone my flutter experience
-## Programming Interests 
+## Technologies I Want to Explore
 1. ML
 2. Databases
 3. Django
