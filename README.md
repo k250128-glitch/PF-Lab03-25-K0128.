@@ -1,7 +1,13 @@
 # Iam Syed Huzaifa Ali
 *This is PF Lab 03 task*
 <br/>
-**Welcome to my PF Lab repository**
+
+**Welcome to my PF Lab repository!**
+<br/>
+
+***I am passionate about learning programming and solving problems.***
+<br/>
+
 ## About Myself
 - Iam a student studying BSAI from FAST university
 - I like writing programs specially in python
